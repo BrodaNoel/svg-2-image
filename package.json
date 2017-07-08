@@ -1,8 +1,8 @@
 {
   "name": "svg-2-image",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Export SVG to Image",
-  "main": "lib/svg-2-image-lib.js",
+  "main": "lib/svg-2-image-lib.min.js",
   "scripts": {
     "build": "webpack --env build",
     "dev": "webpack --progress --colors --watch --env dev",
